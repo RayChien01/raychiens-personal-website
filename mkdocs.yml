@@ -1,0 +1,20 @@
+site_name: Ray's Personal Website
+
+theme:
+  name: material 
+
+# 左側的導覽列選單
+nav:
+  - Home Page: index.md
+  - Books: books.md
+  - About Me: about_me.md
+
+# 啟用 LaTeX 數學公式渲染與相關擴充功能
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+
+# 載入 MathJax 引擎來在網頁上完美解析數學方程式
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
