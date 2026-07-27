@@ -2,7 +2,8 @@
 
 ![study_group](assets/about/study_group.jpg)
 
-*High school study group for Olympiad in Physics, 2024*
+<center><i>Presenting at our physics study group, 2024</i></center>
+
 
 ## Education
 
