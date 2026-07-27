@@ -10,4 +10,18 @@
 
 ## Contact Me
 
-Email: jianr342@gmail.com
+- Email: jianr342@gmail.com
+
+## Links
+
+- GitHub: [RayChien01](https://github.com/RayChien01)
+
+- WakaTime: [rayChien](https://wakatime.com/@rayChien)
+
+- Instagram: [raychien01](https://www.instagram.com/raychien01/)
+
+- Facebook: [簡睿均](https://www.facebook.com/RayChienOwO/)
+
+- Threads: [raychien01](https://www.threads.com/@raychien01)
+
+- lichess.org: [RayChien](https://lichess.org/@/RayChien)

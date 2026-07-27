@@ -11,8 +11,12 @@ These are all original. However, I am still just a college student.
 
 ## High School Math
 
+### Quick Review of High School Math
+
 [quick_review_of_highschool_math.pdf](assets/quick_review_of_highschool_math.pdf)
 
-## Calculus for Exams
+## Calculus 
+
+### Calculus for Quizes
 
 [calculus_notes_for_quizes.pdf](assets/calculus_notes_for_quizes.pdf)
