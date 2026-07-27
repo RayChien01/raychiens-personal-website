@@ -2,7 +2,7 @@
 
 ![study_group](assets/about/study_group.jpg)
 
-<center><i>Presenting at high school physics study group, 2024</i></center>
+<center>Presenting at high school physics study group, 2024</center>
 
 
 ## Education
