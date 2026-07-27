@@ -1,4 +1,4 @@
-# About Me
+# About
 
 ## Education
 
@@ -8,3 +8,6 @@
 - 介壽國中 數理資優班 (2019 - 2022)
 - 民權國小 資優班 (2013 - 2019)
 
+## Contact Me
+
+Email: jianr342@gmail.com
