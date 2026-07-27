@@ -2,30 +2,23 @@
 
 ## Music
 
-I started playing the violin when I was 9. I am not professional. I stopped taking formal lessons in 2025, but I continue to enjoy playing and learning from books like *The Basics.* I am a member of the orchestras at 民權國小, 介壽國中, 師大附中(HSNU), and 交通大學(NYCU).
+I started playing the violin when I was 9. I am not professional. I stopped taking formal lessons in 2025, but I continue to enjoy playing and learning from books like *The Basics.* I was a member of the orchestras at 民權國小, 介壽國中, 師大附中(HSNU), and 交通大學(NYCU).
 
 ### Music Pieces Played
 
-#### Before 2025
+#### 2025 and Before
 
 - J.S. Bach: Partita for Violin Solo No. 2 in D minor, BWV 1004
-
 - J.S. Bach: Concerto for Two Violins in D minor, BWV 1043
-
 - Lalo: Symphonie Espagnole in D minor, Op. 21, 1st
-
 - Mendelssohn: Violin Concerto in E minor, Op. 64
-
 - Saint-Saëns: Violin Concerto No. 3 in B minor, Op. 61
-
-- Wieniawski: Violin Concerto No. 2 in D minor, Op. 22, 3rd Movement
-
+- Wieniawski: Violin Concerto No. 2 in D minor, Op. 22, 3rd
 - Wieniawski: Polonaise de Concert No. 1 in D Major, Op. 4
 
 ### Still Practicing
 
-- Tchaikovsky: Violin Concerto in D major, Op. 35, 3rd Movement
-
+- Tchaikovsky: Violin Concerto in D major, Op. 35, 3rd
 - Sibelius: Violin Concerto in D minor, Op. 47, 3rd
 
 ### Playlists of Modern Music
@@ -33,7 +26,6 @@ I started playing the violin when I was 9. I am not professional. I stopped taki
 In modern fast-paced society leaves little time for me to appreciate classical music. These the link are my two playlists of modern music on YouTube Music.
 
 - [modern](https://music.youtube.com/playlist?list=PLcepGEkFxV5Q&si=LsyZqLVJp6BNXRcG)
-
 - [vocal](https://music.youtube.com/playlist?list=PLbGjvekiaMGn1E_ptoVQPUPquHzGJMu4w&si=_t_C1wFd1dygyfwM)
 
 ## Reading
@@ -43,3 +35,39 @@ In modern fast-paced society leaves little time for me to appreciate classical m
 #### 2026
 
 - Play Winning Chess by Yasser Seirawan
+
+## TV Time
+
+### The Movies I Have Watched
+
+(which is good enough for me to remember)
+
+#### 2024 and Before
+- Breakfast at Tiffany's (1961)
+- Rome Holiday (1953)
+- Life is Beautiful (1997)
+- Midnight in Paris (2011)
+- Johnny English 1-3 (2003, 2011, 2018)
+- City Lights (1931)
+- The Great Dictator (1940)
+- The Kid (1921)
+- Modern Times (1936)
+
+#### 2025
+- Love Actually (2003)
+- Casino Royale (2006)
+- La La Land (2016)
+
+#### 2026
+- Quantum of Solace (2008)
+- Grave of the Fireflies (1988)
+- Pressure (2026)
+
+### The Series I Have Watched
+(which is good enough for me to watch the episodes in roll)
+
+#### 2025
+- Wednesday season 1 (2022)
+
+#### 2026
+- Queen's Gambit (2020)
