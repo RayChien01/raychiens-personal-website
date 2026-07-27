@@ -19,7 +19,7 @@ I started playing the violin when I was 9. I am not professional. I stopped taki
 ### Still Practicing
 
 - Tchaikovsky: Violin Concerto in D major, Op. 35, 3rd
-- Sibelius: Violin Concerto in D minor, Op. 47, 3rd
+- Sibelius: Violin Concerto in D minor, Op. 47, 1rd
 
 ### Playlists of Modern Music
 
@@ -40,23 +40,23 @@ In modern fast-paced society leaves little time for me to appreciate classical m
 
 ### The Movies I Have Watched
 
-(which is good enough for me to remember)
+(which are good enough for me to remember)
 
 #### 2024 and Before
 - Breakfast at Tiffany's (1961)
 - Rome Holiday (1953)
 - Life is Beautiful (1997)
 - Midnight in Paris (2011)
-- Johnny English 1-3 (2003, 2011, 2018)
 - City Lights (1931)
 - The Great Dictator (1940)
 - The Kid (1921)
 - Modern Times (1936)
 
 #### 2025
+- La La Land (2016)
 - Love Actually (2003)
 - Casino Royale (2006)
-- La La Land (2016)
+- Johnny English 1-3 (2003, 2011, 2018)
 
 #### 2026
 - Quantum of Solace (2008)
@@ -64,7 +64,7 @@ In modern fast-paced society leaves little time for me to appreciate classical m
 - Pressure (2026)
 
 ### The Series I Have Watched
-(which is good enough for me to watch the episodes in roll)
+(which are good enough for me to watch the episodes in roll)
 
 #### 2025
 - Wednesday season 1 (2022)
