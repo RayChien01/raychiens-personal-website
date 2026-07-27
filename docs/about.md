@@ -1,6 +1,6 @@
 # About Ray Chien, 簡睿均
 
-![study_group](/docs/assets/about/study_group.jpg)
+![study_group](assets/about/study_group.jpg)
 
 *High school study group for Olympiad in Physics, 2024*
 
