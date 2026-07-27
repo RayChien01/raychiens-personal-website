@@ -76,7 +76,7 @@ In modern fast-paced society leaves little time for me to appreciate classical m
 
 ### Minecraft
 ![boarding](assets/culture_log/minecraft.png)
-Playing survival with [the one failed to load his shader package](https://www.instagram.com/scxxcla_.o._hsiao/)
+Playing survival with [the one failed to load his shader package].(https://www.instagram.com/scxxcla_.o._hsiao/)
 
 ### Brawl Stars
 
