@@ -1,5 +1,5 @@
 # Experiences & Advice
 
-### 在學重考：學測及臺大電資學院二階筆試備考心得
+## Applications
 
-[學測及臺大電資學院二階筆試備考心得.pdf](assets/學測及臺大電資學院二階筆試備考心得.pdf)
+- [學測及臺大電資學院二階筆試備考心得.pdf](assets/experiences_advice/學測及臺大電資學院二階筆試備考心得.pdf)
