@@ -76,7 +76,7 @@ In modern fast-paced society leaves little time for me to appreciate classical m
 
 ### Minecraft
 ![boarding](assets/culture_log/minecraft.png)
-Playing survival with [the one failed to load his shader package].(https://www.instagram.com/scxxcla_.o._hsiao/)
+Playing survival with [the one who failed to load his shader package].(https://www.instagram.com/scxxcla_.o._hsiao/)
 
 ### Brawl Stars
 
@@ -84,4 +84,4 @@ Playing survival with [the one failed to load his shader package].(https://www.i
 
 
 
-Hitting Legendary with [the one has](https://www.instagram.com/ronald96419/) and [the one hasn't](https://www.instagram.com/fredkao1220/) beat me in 1v1.
+Hitting Legendary with [the one who has](https://www.instagram.com/ronald96419/) and [the one who hasn't](https://www.instagram.com/fredkao1220/) beat me in 1v1.
