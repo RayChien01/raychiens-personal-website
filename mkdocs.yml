@@ -1,7 +1,9 @@
 site_name: Ray's Personal Website
 
 theme:
-  name: material 
+  name: material
+  logo: assets/Chess_qlt45.svg
+  favicon: assets/Chess_qlt45.svg
 
 # 左側的導覽列選單
 nav:
@@ -9,7 +11,7 @@ nav:
   - About: about.md
   - Studies: studies.md
   - Notes: notes.md
-  - Experiences & advice: experiences_advice.md
+  - Experiences & Advice: experiences_advice.md
   - Culture Log: culture_log.md
 
 

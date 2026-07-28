@@ -76,12 +76,16 @@ In modern fast-paced society leaves little time for me to appreciate classical m
 
 ### Minecraft
 ![boarding](assets/culture_log/minecraft.png)
-Playing survival with [the one who failed to load his shader package](https://www.instagram.com/scxxcla_.o._hsiao/).
+Playing survival with [the one who failed to load his shader package](https://www.instagram.com/scxxcla_.o._hsiao/), 2026
 
 ### Brawl Stars
 
 ![Master](assets/culture_log/brawl.jpeg)
 
+Hitting Legendary with [the one who has](https://www.instagram.com/ronald96419/) and [the one who hasn't](https://www.instagram.com/fredkao1220/) beat me in 1v1, 2026
 
+### Mahjong (雀魂)
 
-Hitting Legendary with [the one who has](https://www.instagram.com/ronald96419/) and [the one who hasn't](https://www.instagram.com/fredkao1220/) beat me in 1v1.
+![Mahjong](assets/culture_log/mahjong.jpg)
+
+Playing Mahjong with [the CS guy who types at the speed of light](https://zhenverse.github.io/) and [my high school project partner](https://www.instagram.com/andy.su.1587.30/), 2025
