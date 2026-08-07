@@ -6,6 +6,8 @@ All original! However, I am still just a college student.
 
 - [mechanics_in_complex.pdf](assets/notes/mechanics_in_complex.pdf)
 
+- [the_physics_behind_the_violin.pdf](assets/notes/the_physics_behind_the_violin.pdf)
+
 
 ## Math
 
