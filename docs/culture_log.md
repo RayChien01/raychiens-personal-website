@@ -23,7 +23,7 @@ I started playing the violin when I was 9. I am not professional. I stopped taki
 
 ### Playlists of Modern Music
 
-In modern fast-paced society leaves little time for me to appreciate classical music. These the link are my two playlists of modern music on YouTube Music.
+The modern fast-paced society leaves me little time to appreciate classical music. These the link are my two playlists of modern music on YouTube Music.
 
 - [modern](https://music.youtube.com/playlist?list=PLcepGEkFxV5Q&si=LsyZqLVJp6BNXRcG)
 - [vocal](https://music.youtube.com/playlist?list=PLbGjvekiaMGn1E_ptoVQPUPquHzGJMu4w&si=_t_C1wFd1dygyfwM)
