@@ -35,6 +35,8 @@ The modern fast-paced society leaves me little time to appreciate classical musi
 #### 2026
 
 - Play Winning Chess by Yasser Seirawan
+- The Giver by Lois Lowry
+- The Ideas Behind the Chess Openings
 
 ## TV Time
 
@@ -45,6 +47,7 @@ The modern fast-paced society leaves me little time to appreciate classical musi
 #### 2024 and Before
 - Breakfast at Tiffany's (1961)
 - Rome Holiday (1953)
+- Funny Face (1957)
 - Life is Beautiful (1997)
 - Midnight in Paris (2011)
 - City Lights (1931)
