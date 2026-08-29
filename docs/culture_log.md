@@ -60,11 +60,13 @@ The modern fast-paced society leaves me little time to appreciate classical musi
 - Love Actually (2003)
 - Casino Royale (2006)
 - Johnny English 1-3 (2003, 2011, 2018)
+- The Menu (2022)
 
 #### 2026
 - Quantum of Solace (2008)
 - Grave of the Fireflies (1988)
 - Pressure (2026)
+- The Odyssey (2026)
 
 ### The Series I Have Watched
 (which are good enough for me to watch the episodes in roll)
