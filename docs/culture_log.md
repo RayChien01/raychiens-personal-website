@@ -34,9 +34,10 @@ The modern fast-paced society leaves me little time to appreciate classical musi
 
 #### 2026
 
-- Play Winning Chess by Yasser Seirawan
-- The Giver by Lois Lowry
-- The Ideas Behind the Chess Openings
+- *Play Winning Chess* by Yasser Seirawan
+- *The Giver* by Lois Lowry
+- *The Ideas Behind the Chess Openings* by Reuben Fine
+- 《流浪者之歌》—— Hermann Hesse
 
 ## TV Time
 
