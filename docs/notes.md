@@ -8,6 +8,7 @@ All original! However, I am still just a college student.
 
 - [the_physics_behind_the_violin.pdf](assets/notes/the_physics_behind_the_violin.pdf)
 
+- [cross_product_of_vectors_in_matrix_form_and_its_application_to_electromagnetism.pdf](assets/notes/cross_product_of_vectors_in_matrix_form_and_its_application_to_electromagnetism.pdf)
 
 ## Math
 
