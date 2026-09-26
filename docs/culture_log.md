@@ -37,7 +37,8 @@ The modern fast-paced society leaves me little time to appreciate classical musi
 - *Play Winning Chess* by Yasser Seirawan
 - *The Giver* by Lois Lowry
 - *The Ideas Behind the Chess Openings* by Reuben Fine
-- 《流浪者之歌》—— Hermann Hesse
+- 《流浪者之歌》譯本 —— Hermann Hesse
+- 《解憂雜貨店》譯本 —— 東野圭吾
 
 ## TV Time
 
