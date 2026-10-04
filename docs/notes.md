@@ -10,6 +10,8 @@ All original! However, I am still just a college student.
 
 - [cross_product_of_vectors_in_matrix_form_and_its_application_to_electromagnetism.pdf](assets/notes/cross_product_of_vectors_in_matrix_form_and_its_application_to_electromagnetism.pdf)
 
+- [motions_of_charged_particles_in_static_electromagnetic_field.pdf](assets/notes/motions_of_charged_particles_in_static_electromagnetic_field.pdf)
+
 ## Math
 
 - [quick_review_of_highschool_math.pdf](assets/notes/quick_review_of_highschool_math.pdf)
