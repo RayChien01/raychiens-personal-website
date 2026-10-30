@@ -1,3 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+      <url>
+        <loc>https://raychien.pages.dev/</loc>
+      </url>
+      <url>
+        <loc>https://raychien.pages.dev/about/</loc>
+      </url>
+      <url>
+        <loc>https://raychien.pages.dev/culture_log/</loc>
+      </url>
+      <url>
+        <loc>https://raychien.pages.dev/experiences_advice/</loc>
+      </url>
+      <url>
+        <loc>https://raychien.pages.dev/notes/</loc>
+      </url>
+      <url>
+        <loc>https://raychien.pages.dev/studies/</loc>
+      </url>
 </urlset>

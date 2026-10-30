@@ -1,0 +1,47 @@
+[project]
+site_name = "Ray's Personal Website"
+site_url = "https://raychien.pages.dev"
+repo_url = "https://github.com/RayChien01/raychiens-personal-website"
+repo_name = "RayChien01/raychiens-personal-website"
+
+nav = [
+  { "Home Page" = "index.md" },
+  { "About" = "about.md" },
+  { "Studies" = "studies.md" },
+  { "Notes" = "notes.md" },
+  { "Experiences & Advice" = "experiences_advice.md" },
+  { "Culture Log" = "culture_log.md" },
+]
+
+extra_javascript = [
+  "https://polyfill.io/v3/polyfill.min.js?features=es6",
+  "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js",
+]
+
+[project.theme]
+variant = "modern"
+logo = "assets/Chess_qlt45.svg"
+favicon = "assets/Chess_qlt45.svg"
+
+# Palette toggle for automatic mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme)"
+toggle.icon = "lucide/sun-moon"
+toggle.name = "Switch to light mode"
+
+# Palette toggle for light mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+# Palette toggle for dark mode
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to system preference"
+
+[project.markdown_extensions]
+pymdownx.arithmatex.generic = true
