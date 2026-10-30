@@ -2,6 +2,7 @@ site_name: Ray's Personal Website
 
 theme:
   name: material
+  variant: modern
   logo: assets/Chess_qlt45.svg
   favicon: assets/Chess_qlt45.svg
 
