@@ -2,10 +2,10 @@
 
 lolollll
 
-$\nabla \cdot D = \rho$
+$\nabla \cdot \mathbf D = \rho$
 
-$\nabla \cdot B = 0$
+$\nabla \cdot \mathbf B = 0$
 
-$\nabla \times E = -\displaystyle\frac{\partial B}{\partial t}$
+$\nabla \times \mathbf E = -\displaystyle\frac{\partial \mathbf B}{\partial t}$
 
-$\nabla \times H = J + \displaystyle\frac{\partial D}{\partial t}$
+$\nabla \times \mathbf H = \mathbf J + \displaystyle\frac{\partial \mathbf D}{\partial t}$
