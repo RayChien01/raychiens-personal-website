@@ -2,4 +2,10 @@
 
 lolollll
 
-$e^{i \pi} + 1 = 0$
+$\nabla \cdot D = \rho$
+
+$\nabla \cdot B = 0$
+
+$\nabla \times E = -\displaystyle\frac{\partial B}{\partial t}$
+
+$\nabla \times H = J + \displaystyle\frac{\partial D}{\partial t}$
